@@ -24,7 +24,7 @@ Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/wasimtikki120/WeatherVista-Interactive-Weather-App.git`
+1. Clone the repository: `git clone https://github.com/KrishnakantAwasthi/Weather-Interactive-App.git`
 2. Open `index.html` in your preferred browser to launch the app.
 
 ## Usage
@@ -54,4 +54,4 @@ If you encounter any issues or have suggestions, [open an issue]([https://github
 
 ## About
 
-WeatherVista is the result of a passion for creating user-friendly applications that empower individuals to make informed decisions. Inspired by a love for technology and the desire to simplify weather information, Mohammad Wasim Tikki set out to develop a weather app that seamlessly integrates accuracy with an engaging user experience. Join us in exploring the world of WeatherVista!
+WeatherVista is the result of a passion for creating user-friendly applications that empower individuals to make informed decisions. Inspired by a love for technology and the desire to simplify weather information, Krishnakant Awasthi out to develop a weather app that seamlessly integrates accuracy with an engaging user experience. Join us in exploring the world of WeatherVista!
