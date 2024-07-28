@@ -34,19 +34,10 @@ Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app
 - Explore the highlight cards to learn more about today's weather insights.
 
 
-## License
-
-WeatherVista is licensed under the [MIT License](LICENSE.md).[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Feel free to customize and use it in your projects. 
-
-
 ## Author
 
 [Krishnakant Awasthi](https://github.com/KrishnakantAwasthi/Weather-Interactive-App)
 
-## Contribution
-
-Contributions are welcome! Please check our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Support
 
