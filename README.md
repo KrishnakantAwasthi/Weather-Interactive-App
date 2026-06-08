@@ -22,6 +22,12 @@ Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app
 ![WeatherVista Screenshot 2](images/WeatherVista%20-%20Interactive%20Weather%20App%202.png)
 ![WeatherVista Screenshot 3](images/WeatherVista%20-%20Interactive%20Weather%20App%203.png)
 
+** Pandas : https://colab.research.google.com/drive/1ojRp2NOvfadx3gYNCe0BUS1zMOIkOkJ6
+
+** Numpy : https://colab.research.google.com/drive/1l_vIGd6oQ8yjeswFP27uxuP0nfOuAWKz
+
+
+
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/KrishnakantAwasthi/Weather-Interactive-App.git`
