@@ -1,6 +1,6 @@
 # WeatherVista - Interactive Weather App
 
-** Pandas : https://colab.research.google.com/drive/1ojRp2NOvfadx3gYNCe0BUS1zMOIkOkJ6
+ Pandas : https://colab.research.google.com/drive/1ojRp2NOvfadx3gYNCe0BUS1zMOIkOkJ6
 
 ## Numpy : https://colab.research.google.com/drive/1l_vIGd6oQ8yjeswFP27uxuP0nfOuAWKz
 
