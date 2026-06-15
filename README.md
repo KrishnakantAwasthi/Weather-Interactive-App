@@ -4,7 +4,7 @@ Pandas : https://colab.research.google.com/drive/1ojRp2NOvfadx3gYNCe0BUS1zMOIkOk
 
 Numpy : https://colab.research.google.com/drive/1l_vIGd6oQ8yjeswFP27uxuP0nfOuAWKz
 
-M2 : https://drive.google.com/drive/folders/17avm3cL0vnu-doUMZdkUr-3GpbJrsubO
+M2 Module : https://drive.google.com/drive/folders/17avm3cL0vnu-doUMZdkUr-3GpbJrsubO
 
 ML Algo : https://drive.google.com/drive/folders/17AAT0l78YVuPxhermlCEWNbzBhCSO8yF
 
