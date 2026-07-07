@@ -6,11 +6,12 @@ Numpy : https://colab.research.google.com/drive/1l_vIGd6oQ8yjeswFP27uxuP0nfOuAWK
 
 M2 Module : https://drive.google.com/drive/folders/17avm3cL0vnu-doUMZdkUr-3GpbJrsubO
 
-ML Algo : https://drive.google.com/drive/folders/17AAT0l78YVuPxhermlCEWNbzBhCSO8yFhttps://drive.google.com/drive/folders/10kTXgHtcYuMWokQ1fczxSpybkqfQIYyY
+ML Algo : https://drive.google.com/drive/folders/17AAT0l78YVuPxhermlCEWNbzBhCSO8yF
 
 
 
-Project Setup : 
+
+Project Setup : https://drive.google.com/drive/folders/10kTXgHtcYuMWokQ1fczxSpybkqfQIYyY
 ## Overview
 
 Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app. WeatherVista not only provides accurate weather forecasts but also offers an engaging and intuitive user experience.
