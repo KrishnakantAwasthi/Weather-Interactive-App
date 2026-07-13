@@ -8,6 +8,8 @@ M2 Module : https://drive.google.com/drive/folders/17avm3cL0vnu-doUMZdkUr-3GpbJr
 
 ML Algo : https://drive.google.com/drive/folders/17AAT0l78YVuPxhermlCEWNbzBhCSO8yF
 
+https://drive.google.com/file/d/1P7f1fa0v3hmp5Lc3pbzfVRKOoxY9B66B/view
+
 import os
 from google.cloud import bigquery
 def run_etl():
