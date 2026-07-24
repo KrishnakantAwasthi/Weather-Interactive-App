@@ -10,6 +10,11 @@ ML Algo : https://drive.google.com/drive/folders/17AAT0l78YVuPxhermlCEWNbzBhCSO8
 
 https://drive.google.com/file/d/1P7f1fa0v3hmp5Lc3pbzfVRKOoxY9B66B/view
 
+Completed hands-on training in Python, SQL, FastAPI, Machine Learning, and Natural Language Processing (NLP).
+Built end-to-end projects including a Machine Learning prediction model, FastAPI REST API, NLP text processing pipeline, and Prompt Engineering applications.
+Containerized applications using Docker and gained practical exposure to deploying containerized services with Google Cloud Run.
+Developed skills in API development, data preprocessing, model integration, and cloud-ready application deployment.
+
 import os
 from google.cloud import bigquery
 def run_etl():
