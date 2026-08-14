@@ -15,21 +15,15 @@ Built end-to-end projects including a Machine Learning prediction model, FastAPI
 Containerized applications using Docker and gained practical exposure to deploying containerized services with Google Cloud Run.
 Developed skills in API development, data preprocessing, model integration, and cloud-ready application deployment.
 
-import os
-from google.cloud import bigquery
-def run_etl():
-   project_id = os.getenv("PROJECT_ID")
-   dataset = os.getenv("BQ_DATASET")
-   table = os.getenv("BQ_TABLE")
-   client = bigquery.Client(project=project_id)
-   query = f"""
-   CREATE OR REPLACE TABLE `{project_id}.{dataset}.{table}` AS
-   SELECT
-     CURRENT_DATE() AS load_date,
-     'cloud_run_etl_success' AS status
-   """
-   client.query(query).result()
-   print("ETL completed successfully")
+Hello Sir,
+
+I hope you are doing well. I’m doing well too.
+
+I have recently completed my one-month training period, during which I learned a lot about Machine Learning and AI concepts. The training has helped me strengthen my fundamentals, and I’m now looking forward to applying this knowledge to real-world projects.
+
+I would really appreciate your guidance on the skills, concepts, and tools I should focus on learning further so that I can contribute effectively to real-world projects.
+
+Your guidance would be highly valuable for my learning and professional growth. Thank you for your time and support, Sir.
 
 
 Project Setup : https://drive.google.com/drive/folders/10kTXgHtcYuMWokQ1fczxSpybkqfQIYyY
