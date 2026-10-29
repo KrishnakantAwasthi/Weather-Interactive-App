@@ -25,9 +25,6 @@ I would really appreciate your guidance on the skills, concepts, and tools I sho
 
 Your guidance would be highly valuable for my learning and professional growth. Thank you for your time and support, Sir.
 
-"AQ.Ab8RN6IDNNCAV5OklHutzPaTGnhoi7XtAhDQZEWEX3yN59FdeQ"
-"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"
-
 Project Setup : https://drive.google.com/drive/folders/10kTXgHtcYuMWokQ1fczxSpybkqfQIYyY
 ## Overview
 
